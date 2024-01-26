@@ -1,0 +1,3 @@
+include startgpt_whisper/assets/silero_vad.onnx
+include requirements.txt
+include requirements.conversion.txt
