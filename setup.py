@@ -57,7 +57,7 @@ setup(
     extras_require={
         "conversion": conversion_requires,
         "dev": [
-            "black==23.*",
+            "black==24.*",
             "flake8==6.*",
             "isort==5.*",
             "pytest==7.*",
