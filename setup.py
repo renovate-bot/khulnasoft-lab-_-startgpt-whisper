@@ -58,7 +58,7 @@ setup(
         "conversion": conversion_requires,
         "dev": [
             "black==23.*",
-            "flake8==6.*",
+            "flake8==7.*",
             "isort==5.*",
             "pytest==7.*",
         ],
