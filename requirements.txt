@@ -1,5 +1,5 @@
 av==10.*
 ctranslate2>=3.22,<4
 huggingface_hub>=0.13
-tokenizers>=0.13,<0.16
+tokenizers>=0.20,<0.21
 onnxruntime>=1.14,<2
