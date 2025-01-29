@@ -59,7 +59,7 @@ setup(
         "dev": [
             "black==23.*",
             "flake8==6.*",
-            "isort==5.*",
+            "isort==6.*",
             "pytest==7.*",
         ],
     },
